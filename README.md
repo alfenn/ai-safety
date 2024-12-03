@@ -22,3 +22,8 @@ Neel Nanda's [Concrete Steps to Get Started in Transformer Mechanistic Interpret
   - Same outline as two-books
   - Highlighting two ideas (different applications, or temporally different with one inspiring the other, or two seminal ideas that came together to inspire something hugely relevant today)
   - Create collection of papers and their relationships with one another as a Notion table that folks can suggest relationships between and star popular relationships they'd like to see compared (use this database of potential connections to triangulate which are promising connections to explore)
+- spark-databricks
+  - Tutorial on Spark and Databricks technologies (relevant for building fast machine learning pipelines)
+  - How fast is fast (compared to alternatives) in terms of development simplicity and performance?
+  - What is it used for/who was it designed for, who designed it, and why did they design it?
+  - How does it work (architecture, common depoyments, self-hosting)
