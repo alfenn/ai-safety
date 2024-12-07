@@ -27,3 +27,11 @@ Neel Nanda's [Concrete Steps to Get Started in Transformer Mechanistic Interpret
   - How fast is fast (compared to alternatives) in terms of development simplicity and performance?
   - What is it used for/who was it designed for, who designed it, and why did they design it?
   - How does it work (architecture, common depoyments, self-hosting)
+- paper-replications
+  - Paper replication process advice from EA Forum [1](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment#How_to_pursue_research_contributor__ML_engineering__roles), which links to [2](https://forum.effectivealtruism.org/posts/fRjj6nm9xbW4kFcTZ/advice-on-pursuing-technical-ai-safety-research#2_1__Advice_on_paper_replication).
+  - 1 encourages writing for funding to do paper replications
+- arena-notes
+  - Useful things to include are summaries, comments, takes, disagreements, opinions, additional resources. 
+- technical-reports
+  - See (ARC ELK technical report)[https://www.lesswrong.com/posts/QEYWkRoCn4fZxXQAY/prizes-for-elk-proposals] for inspiration.
+  - A reasonable estimate of time is spendig 50 hours learning, and 50 hours producing in a way that covers enough breadth to talk about the main areas sensibly, know about recent advances, and having depth in the area proposed exploration is in.
